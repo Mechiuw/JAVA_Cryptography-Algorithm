@@ -124,7 +124,4 @@ public class ENCRYPT01 {
         return result.toString();
     }
 
-    public static void main(String[] args) {
-        run();
-    }
 }

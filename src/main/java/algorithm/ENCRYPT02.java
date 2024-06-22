@@ -1,11 +1,8 @@
 package algorithm;
 
-import java.util.ArrayList;
-import java.util.List;
-
 public class ENCRYPT02 {
     public static void run() {
-        data("encrypted message");
+        data("simple cryptography method being developed");
     }
     public static void data(String encrypt){
         char[] x = encrypt.toCharArray();
